@@ -1,6 +1,6 @@
-# when_i_leave_app
+# Flutter app: When I leave? 
 
-A new Flutter application.
+A new Flutter application to calculate what time I should leave work.
 
 ## Getting Started
 
